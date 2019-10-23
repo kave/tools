@@ -7,6 +7,7 @@ name = "pypi"
 falcon = "*"
 gunicorn = "*"
 python-dotenv = "*"
+pygithub = "*"
 
 [dev-packages]
 
